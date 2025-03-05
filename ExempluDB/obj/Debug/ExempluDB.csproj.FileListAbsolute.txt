@@ -1,0 +1,624 @@
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\ApplicationInsights.config
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\csc.exe
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\vbc.exe
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\VBCSCompiler.exe
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\ExempluDB.dll.config
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\ExempluDB.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\ExempluDB.pdb
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\EntityFramework.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\EntityFramework.SqlServer.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Google.Protobuf.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.Web.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\MySql.Data.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\EntityFramework.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\EntityFramework.SqlServer.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Google.Protobuf.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.Web.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\MySql.Data.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\obj\Debug\ExempluDB.csprojResolveAssemblyReference.cache
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\obj\Debug\ExempluDB.dll
+c:\users\mihaela\documents\visual studio 2015\Projects\ExempluDB\ExempluDB\obj\Debug\ExempluDB.pdb
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\obj\Debug\ExempluDB.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\obj\Debug\ExempluDB.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\obj\Debug\ExempluDB.pdb
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\ApplicationInsights.config
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\csc.exe
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\vbc.exe
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\ExempluDB.dll.config
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\ExempluDB.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\ExempluDB.pdb
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\EntityFramework.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Google.Protobuf.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.Web.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\MySql.Data.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\EntityFramework.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Google.Protobuf.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.Web.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\MySql.Data.xml
+C:\Users\Mihaela\Google Drive\pt predat\2018 - 2019\IP\ExempluDB\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\desktop.ini
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\ExempluDB.dll.config
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\ExempluDB.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\ExempluDB.pdb
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\MySql.Data.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\MySql.Data.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\obj\Debug\ExempluDB.dll
+C:\Users\Admin\Downloads\ExempluDB - ASP.NET (aplicatie web) (1)\ExempluDB - ASP.NET\ExempluDB\obj\Debug\ExempluDB.pdb
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+C:\Users\Admin\Desktop\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\Echipa 52\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Diana\Downloads\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.xml
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.dll
+I:\DOWNLOADS\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.xml
+I:\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+I:\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.xml
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+M:\downloads\WEB FINAL V2\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\ApplicationInsights.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\csc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\desktop.ini
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\vbc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Google.Protobuf.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\Newtonsoft.Json.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Helpers.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\bin\System.Web.WebPages.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ExempluDB - ASP.NET - 1\ExempluDB\obj\Debug\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\ApplicationInsights.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\csc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\desktop.ini
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\System.Collections.Immutable.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\System.Reflection.Metadata.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\vbc.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\VBCSCompiler.exe
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\roslyn\VBCSCompiler.exe.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\ExempluDB.dll.config
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\ExempluDB.pdb
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\EntityFramework.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\EntityFramework.SqlServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Google.Protobuf.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.DependencyCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.Web.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.WindowsServer.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.ApplicationInsights.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.Web.Infrastructure.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\MySql.Data.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\MySql.Data.Entity.EF6.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Newtonsoft.Json.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.Helpers.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.Deployment.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.Razor.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\EntityFramework.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\EntityFramework.SqlServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Google.Protobuf.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.DependencyCollector.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.Web.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.AI.WindowsServer.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.ApplicationInsights.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\MySql.Data.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\MySql.Data.Entity.EF6.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\Newtonsoft.Json.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.Helpers.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.Deployment.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\bin\System.Web.WebPages.Razor.xml
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\obj\Debug\ExempluDB.csproj.AssemblyReference.cache
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\obj\Debug\ExempluDB.csproj.CoreCompileInputs.cache
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\obj\Debug\ExempluDB.csproj.CopyComplete
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\obj\Debug\ExempluDB.dll
+I:\Facultate\ANUL 3 SEM 2\ip\final\ramane\ExempluDB\obj\Debug\ExempluDB.pdb
